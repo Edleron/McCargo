@@ -28,21 +28,6 @@ This README is a guide representing Unity worksheets and sample code.
 ### Who do I talk to?
 
 * Repo owner or edleron@hotmail.com
-
-# Standarts
-
-## Başlık ?
-### Alt Başlık ?
-* 1 -> Madde İşaretleri - 1
 ``` 
-|| -> Link'li İşaret -1
-```
-* 4 - Madde İşaretleri - 2
-* 5 - Madde İşaretleri - 3
-``` 
-|| -> Link'li İşaret -2
-```
-* 7- Madde İşaretleri - 4
-``` 
-|| -> Link'li İşaret -3 
+|| -> edleron@hotmail.com
 ```
