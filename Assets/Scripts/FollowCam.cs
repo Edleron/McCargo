@@ -11,4 +11,9 @@ public class FollowCam : MonoBehaviour
     {
         transform.position = thingToFollow.transform.position + new Vector3(0, 0, -10);
     }
+
+    public void Test()
+    {
+ 
+    }
 }
