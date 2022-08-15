@@ -1,6 +1,6 @@
 # README #
 
-## CARGO MC DRIVE GAME
+## Mc Cargo DRIVE GAME
 
 This README is a guide representing Unity worksheets and sample code.
 
