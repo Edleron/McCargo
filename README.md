@@ -2,7 +2,7 @@
 
 ## Mc Cargo DRIVE GAME
 
-This README is a guide representing Unity worksheets and sample code.This game is the first prototype clone game of edleron. I would like to thank game dev tv for their efforts.
+This README is a guide representing Unity worksheets and sample code. This game is the first prototype clone game of edleron. I would like to thank game dev tv for their efforts.
 
 ## What is this repository for?
 
@@ -34,5 +34,3 @@ https://edleron.itch.io/mccargo
 ```
 https://play.unity.com/mg/other/builds-co-5
 ```
-
-
